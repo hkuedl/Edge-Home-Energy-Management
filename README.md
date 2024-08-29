@@ -31,10 +31,6 @@ Enable resource-constrained edge devices to execute effective HEM ！
 
 ![content](figures/performance.png)
 
-### Convergence comparison
-
-![content](figures/convergence.png)
-
 ### Established testbed
 
-![content](figures/testbed.png)
+![content](figures/testbed.jpg)
